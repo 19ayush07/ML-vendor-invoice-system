@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models
+*.pkl
+
+# Database files
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
