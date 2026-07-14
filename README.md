@@ -204,7 +204,7 @@ joblib
 
 ## 🚀 Live Demo
 
-👉 https://vendor-invoice-portal.streamlit.app
+👉 (https://19ayush07-ml-vendor-invoice-system-app-9ssxac.streamlit.app/)
 
 
 # 📌 Future Improvements
